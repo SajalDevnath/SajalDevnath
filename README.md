@@ -22,5 +22,6 @@ src="https://img.shields.io/github/followers/SajalDevnath?logo=github&style=for-
 <a href="http://www.github.com/SajalDevnath"><img src="https://github-readme-stats.vercel.app/api?username=SajalDevnath&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="SajalDevnath's GitHub stats" /></a>
 
 <a href="http://www.github.com/SajalDevnath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SajalDevnath&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<b>Top Languages</b>
 
 <a href="https://github.com/SajalDevnath" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajalDevnath&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

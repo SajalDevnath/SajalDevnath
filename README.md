@@ -4,7 +4,7 @@ Hi 👋 My name is Sajal Devnath
 Hustler
 -------
 
-Strategic graduate with a knack for unraveling challenges analytically, merging a love for navigating real-life scenarios with a passion for soaking up industry expertise. AAs a proficient practitioner of Java, I create strong, intuitive apps while contentedly riding the crest of industry developments. Come along on this odyssey full of codes! 🚀
+Strategic graduate with a knack for unraveling challenges analytically, merging a love for navigating real-life scenarios with a passion for soaking up industry expertise. As a proficient practitioner of Java, I create strong, intuitive apps while contentedly riding the crest of industry developments. Come along on this odyssey full of codes! 🚀
 
 * 🌍  I'm based in Bihar, India
 * 🖥️  See my portfolio at [Sajal Devnath](http://sajaldevnath.github.io/DevsajalPortfolio/)

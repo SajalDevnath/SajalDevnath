@@ -12,9 +12,6 @@ Strategic graduate with a knack for unraveling challenges analytically, merging 
 * 🧠  I'm learning AWS, CHEF, and Terraform
 * ⚡  Debugging life one punchline at a time! 💻😅
 
-<a href="https://www.github.com/SajalDevnath" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SajalDevnath?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
-
 ### Badges
 
 <b>My GitHub Stats</b>

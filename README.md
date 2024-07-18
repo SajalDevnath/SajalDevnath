@@ -14,8 +14,12 @@ Strategic graduate with a knack for unraveling challenges analytically, merging 
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/SajalDevnath"><img src="https://github-readme-stats.vercel.app/api?username=SajalDevnath&show_icons=true&hide=commits,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="SajalDevnath's GitHub stats" /></a>
 
-<a href="http://www.github.com/SajalDevnath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SajalDevnath&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SajalDevnath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SajalDevnath&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SajalDevnath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/SajalDevnath" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajalDevnath&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+

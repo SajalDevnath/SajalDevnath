@@ -9,7 +9,7 @@ Strategic graduate with a knack for unraveling challenges analytically, merging 
 * 🌍  I'm based in Bihar, India
 * 🖥️  See my portfolio at [Sajal Devnath](http://sajaldevnath.github.io/DevsajalPortfolio/)
 * ✉️  You can contact me at [sajaldevnath96@gmail.com](mailto:sajaldevnath96@gmail.com)
-* 🧠  I'm currently learning AWS, CHEF, and Terraform
+* 🧠  I'm currently learning SpringBoot
 * ⚡  Debugging life one punchline at a time! 💻😅
 
 ### My GitHub Stats

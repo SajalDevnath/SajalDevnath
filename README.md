@@ -6,10 +6,11 @@ Hustler
 
 Strategic graduate with a knack for unraveling challenges analytically, merging a love for navigating real-life scenarios with a passion for soaking up industry expertise. As a proficient practitioner of Java, I create strong, intuitive apps while contentedly riding the crest of industry developments. Come along on this odyssey full of codes! 🚀
 
-* 🌍  I'm based in Bihar, India
+* 🌍  Based in Bihar, India
 * 🖥️  See my portfolio at [Sajal Devnath](http://sajaldevnath.github.io/DevsajalPortfolio/)
 * ✉️  You can contact me at [sajaldevnath96@gmail.com](mailto:sajaldevnath96@gmail.com)
-* 🧠  I'm currently learning SpringBoot
+* 💼  Currently working at: Nimesa Technologies
+* 🧠  Learning: SpringBoot
 * ⚡  Debugging life one punchline at a time! 💻😅
 
 # 💻 Tech Stack:

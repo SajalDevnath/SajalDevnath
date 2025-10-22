@@ -1,10 +1,14 @@
 Hi 👋 My name is Sajal Devnath
 ==============================
 
-Hustler
+Solutions Engineer | AWS & Terraform | Cloud & DevOps Enthusiast
 -------
 
-Strategic graduate with a knack for unraveling challenges analytically, merging a love for navigating real-life scenarios with a passion for soaking up industry expertise. As a proficient practitioner of Java, I create strong, intuitive apps while contentedly riding the crest of industry developments. Come along on this odyssey full of codes! 🚀
+Crafting scalable and resilient cloud solutions with a focus on AWS, Terraform, and automation. I thrive on designing architectures that balance reliability, efficiency, and simplicity — from Infrastructure as Code setups to multi-region deployments and Disaster Recovery strategies.
+
+Currently exploring Kubernetes, Helm, and advanced CI/CD practices to strengthen my expertise in Site Reliability and cloud automation. When I’m not optimizing infrastructure, you’ll probably find me behind a camera lens. 📸
+
+🚀 Building, automating, and learning — one cloud at a time.
 
 * 🌍  Based in Bihar, India
 * 🖥️  See my portfolio at [Sajal Devnath](http://sajaldevnath.github.io/DevsajalPortfolio/)

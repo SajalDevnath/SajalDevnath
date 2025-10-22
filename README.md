@@ -6,7 +6,7 @@ Solutions Engineer | AWS & Terraform | Cloud & DevOps Enthusiast
 
 Crafting scalable and resilient cloud solutions with a focus on AWS, Terraform, and automation. I thrive on designing architectures that balance reliability, efficiency, and simplicity — from Infrastructure as Code setups to multi-region deployments and Disaster Recovery strategies.
 
-Currently exploring Kubernetes, Helm, and advanced CI/CD practices to strengthen my expertise in Site Reliability and cloud automation. When I’m not optimizing infrastructure, you’ll probably find me behind a camera lens. 📸
+Currently exploring Kubernetes, Helm, and advanced CI/CD practices to strengthen my expertise in Site Reliability and cloud automation.
 
 🚀 Building, automating, and learning — one cloud at a time.
 

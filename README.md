@@ -13,7 +13,7 @@ Currently exploring Kubernetes, Helm, and advanced CI/CD practices to strengthen
 * 🌍  Based in Bihar, India
 * 🖥️  See my portfolio at [Sajal Devnath](http://sajaldevnath.github.io/DevsajalPortfolio/)
 * ✉️  You can contact me at [sajaldevnath96@gmail.com](mailto:sajaldevnath96@gmail.com)
-* 💼  Currently working at: Nimesa Technologies
+* 💼  Currently working at: National Information Centre
 * 🧠  Learning: Kubernetes
 * ⚡  Debugging life one punchline at a time! 💻😅
 
